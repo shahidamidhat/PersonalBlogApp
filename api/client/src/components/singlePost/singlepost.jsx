@@ -47,7 +47,7 @@ export default function Singlepost(){
         }
     }
 
-    const PF = "https://midhatblog.herokuapp.com/api/images/"
+    const PF = "https://midhatblog.herokuapp.com/images/"
 
     return (
         <div className="singlepost">

@@ -9,7 +9,7 @@ export default function Topbar(){
         dispatch({type:"LOGOUT"})
         window.location.replace("/login")
     }
-    const PF = "https://midhatblog.herokuapp.com/api/images/"
+    const PF = "https://midhatblog.herokuapp.com/images/"
     return (
         <div>
             <div className="top">
