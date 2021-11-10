@@ -18,7 +18,7 @@ export default function Sidebar(){
         <div className="sidebar">
             <div className="sidebaritems">
                 <span className="title">ABOUT ME</span>
-                <img src='https://weneedfun.com/wp-content/uploads/2016/07/Latest-Hidden-Face-Girls-Display-Pictures-26.jpg' alt='' />
+                <img src='https://raw.githubusercontent.com/shahidamidhat/PersonalBlogApp/main/api/client/sidebarPic.webp' alt='' />
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo officiis nostrum quasi vel quis beatae dolores, porro iure.</p>
             </div>
             <div className="sidebaritems">
